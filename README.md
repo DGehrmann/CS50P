@@ -1,4 +1,4 @@
-This reporsitory contains my implementations of the Problem Sets of Harvards "Introduction to Programming with Python (CS50P)" Online Course (2022 version). Link to the course: https://cs50.harvard.edu/python/2022/
+This repository contains my implementations of the Problem Sets of Harvards "Introduction to Programming with Python (CS50P)" Online Course (2022 version). Link to the course: https://cs50.harvard.edu/python/2022/
 
 
 Course description:
